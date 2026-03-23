@@ -1,0 +1,51 @@
+# Xcode
+DerivedData/
+*.xcuserdatad/
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcscmblueprint
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods (if used)
+Pods/
+
+# Carthage (if used)
+Carthage/
+
+# macOS
+.DS_Store
+
+# User-specific/editor backups
+*.swp
+*.swo
+*.orig
+*.rej
+
+# App runtime data (do not commit user Documents content)
+# Note: .gitignore only affects files inside this repository. Avoid copying these into the repo.
+BridgeSessions/
+BridgeLibrary/
+
+# Fastlane (if present)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Xcode state
+*.xcuserstate
+
+# Temporary files
+*.tmp
+*.temp
+
