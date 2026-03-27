@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Xcode build data
+build/
+DerivedData/
+
+# User-specific Xcode data
+*.xcuserdata
+*.xcuserstate
+
+# Xcode workspace settings
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.swp
+
